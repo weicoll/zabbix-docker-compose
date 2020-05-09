@@ -6,7 +6,7 @@ $ cd zabbix-docker-compose
 $ docker-compose up -d
 ```
 
-##访问方式
+## 访问方式
 ```buildoutcfg
 http://localhost
 https://localhost
